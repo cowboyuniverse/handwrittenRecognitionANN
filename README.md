@@ -1,6 +1,6 @@
 # Hand Written Recognition ANN
 ## Hand writing recognition using Artificial Neural Networks (ANN)
-#### Data consists of  1797 small images (8x8 pixels)
+#### dataset “Digit” includes 1797 small images (8x8 pixels), each one includes a hand-written digit (0-9)
 #### ANN Accuracy: 0.916666666667
 #### Grid Best Accuracy Score: 0.961046188091
 #### Grid Best Parameters: {'hidden_layer_sizes': (126,)}
